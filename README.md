@@ -1,13 +1,12 @@
 # Training Center Management API
 
-This project is a Spring Boot application that provides a RESTful API for managing training centers. It allows you to create, retrieve, update, and delete training center information.
+This project is a Spring Boot application that provides a RESTful API for managing training centers. It allows you to create and retrieve training center information.
 
 ## Features
 
 - Create a new training center with details such as name, code, address, student capacity, courses offered, contact email, and phone number.
 - Retrieve a list of all registered training centers.
-- Update the details of an existing training center.
-- Delete a training center.
+
 
 ## Technologies Used
 
