@@ -29,13 +29,13 @@ This project is a Spring Boot application that provides a RESTful API for managi
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/training-center-management.git
+git clone https://github.com/your-username/“Backend_Traini8_RaviRaj.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd training-center-management
+cd Backend_Traini8_RaviRaj
 ```
 
 3. Configure the database connection in the `application.properties` file.
